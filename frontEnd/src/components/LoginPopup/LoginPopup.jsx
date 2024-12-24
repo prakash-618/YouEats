@@ -3,7 +3,7 @@ import './LoginPopup.css'
 import { assets } from '../../assets/assets'
 import { StoreContext } from '../../context/StoreContext'
 import axios from "axios"
-const LoginPopUp = ({setShowLogin}) => {
+const LoginPopup = ({setShowLogin}) => {
     const {url,setToken} = useContext(StoreContext)
 
     const [currState,setCurrState] = useState("Login")

@@ -40,6 +40,4 @@ YouEats is a full-stack online food delivery platform built using the MERN stack
 - bcrypt  
 
 ### Payments
-- Stripe API  
-
-## 📂 Project Structure
+- Stripe API
